@@ -1,0 +1,11 @@
+```bash
+# Archivos y carpetas a ignorar
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+db.sqlite3
